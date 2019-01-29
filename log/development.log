@@ -108,3 +108,5 @@ Processing by PostsController#index as HTML
 Completed 200 OK in 22ms (Views: 10.6ms | ActiveRecord: 0.2ms)
 
 
+Started GET "/" for 98.207.214.177 at 2019-01-29 01:24:28 +0000
+DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from block (3 levels) in <class:Railtie> at /usr/local/rvm/gems/ruby-2.3.1/gems/activerecord-5.0.7.1/lib/active_record/railtie.rb:113)
